@@ -34,3 +34,9 @@ Io non ho un background in lingue e le mie note potrebbero essere non formalment
 1. [**Component**](https://www.wordreference.com/enit/component) (accento) L’accento e’ diverso dall’italiano, e si pone sulla seconda sillaba: PO
 1. [**Realm**](https://www.wordreference.com/enit/realm) (suono) (reame in italiano) ha una pronuncia inconsueta. Ha una pronuncia simile all’ italiano “REELM”
 1. [**Develop**](https://www.wordreference.com/enit/develop) (accento) il tipico errore e' di porre l'accento sull'ultima sillaba, mentre in realta' sta sulla seconda: VE
+
+## Links
+
+1. https://pronuncian.com/sounds
+1. https://www.thefreedictionary.com
+1. https://www.listennotes.com/podcasts/american-english-pronunciation-podcast-diJT2fAhWar/
