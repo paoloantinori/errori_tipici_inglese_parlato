@@ -24,6 +24,7 @@ Io non ho un background in lingue e le mie note potrebbero essere non formalment
 1. **Empathic/Empathetic** (scrittura) "empatico". Entrambe le forme sono corrette. 
 1. **Actually** (significato) Actually e' uno dei false-friends che piu' speso sbagliamo. Qui c'e' solo da ricordarsi che non significa "attualmente" ma significa "a dir la verita'"
 1. [**whole**](https://www.wordreference.com/enit/whole) (suono) Tipico errore e' di prounciare la W che e' in realta' muta.
+1. [**management**](https://www.wordreference.com/enit/management) (suono e accento!) Questa parola spesso viene prouncinciata con due distinti errori. Il primo e' sul suono della G che taluni leggono come fosse una J. No e' una G! Ed il secondo e' l'accento: la posizione giusta e' sulla prima sillaba, non la seconda!
 
 ## Termini Tecnici
 
