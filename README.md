@@ -38,10 +38,13 @@ Io non ho un background in lingue e le mie note potrebbero essere non formalment
 1. [**Component**](https://www.wordreference.com/enit/component) (accento) L’accento e’ diverso dall’italiano, e si pone sulla seconda sillaba: PO
 1. [**Realm**](https://www.wordreference.com/enit/realm) (suono) (reame in italiano) ha una pronuncia inconsueta. Ha una pronuncia simile all’ italiano “REELM”
 1. [**Develop**](https://www.wordreference.com/enit/develop) (accento) il tipico errore e' di porre l'accento sull'ultima sillaba, mentre in realta' sta sulla seconda: VE
-1. [**Source**](https://www.wordreference.com/enit/source) (suono) specialmente nell'espressione "Open Source", la parola viene pronunciata "surs". Più raro in "Source Code" dove viene spesso pronunciata correttamente: "sors".
+1. [**Source**](https://www.wordreference.com/enit/source) (suono) La pronuncia e' "sOrs", non "sUrs". L'errore si sente spesso nell'espressione "Open Source".
 1. [**Performance**](https://www.wordreference.com/enit/performance) (accento) L'accento corretto e' su "FOR", la seconda sillaba. L'errore tipico e' di sentirlo posizionato sulla prima sillaba.
 1. [**Demo**](https://www.wordreference.com/enit/demo) (suono) Si pronuncia "demo" come in Italiano. Cosiccome il verbo "demonstrate". L'errore tipico e' "dimo".
 1. [**Parameter**](https://www.wordreference.com/enit/parameter) (suono e accento) Spesso pronunciato utilizzando la stessa pronuncia della parola "meter". In realta' l'accento cade su `ra` e la pronuncia di "meter" in questo caso e' quasi letterale: "meter".
+1. [**Request**](https://www.wordreference.com/enit/request) (accento) L’accento e’ lo stesso della pronuncia italiana. Ma spesso sbagliamo e mettiamo erroneamente l’accento sulla sillaba RE
+1. [**Response**](https://www.wordreference.com/enit/response) (accento) L’accento e’ lo stesso della pronuncia italiana. Ma spesso sbagliamo e mettiamo erroneamente l’accento sulla sillaba RE
+1. [**Support**](https://www.wordreference.com/enit/support) (accento) L’accento e’ lo stesso della pronuncia italiana. Ma spesso sbagliamo e mettiamo erroneamente l’accento sulla sillaba SU
 
 ## Links
 
