@@ -28,6 +28,7 @@ Io non ho un background in lingue e le mie note potrebbero essere non formalment
 1. [**management**](https://www.wordreference.com/enit/management) (suono e accento!) Questa parola spesso viene prouncinciata con due distinti errori. Il primo e' sul suono della G che taluni leggono come fosse una J. No e' una G! Ed il secondo e' l'accento: la posizione giusta e' sulla prima sillaba, non la seconda!
 1. **PayPal**. Spesso viene pronunciata come "paypol". "Pal" in inglese significa amico, compagno e si pronuncia come si legge, con il suono "a" (https://www.wordreference.com/enit/pal)
 1. [**Address**](https://www.wordreference.com/enit/command) (accento) L’accento e’ sulla seconda sillaba
+1. [**Image**](https://www.wordreference.com/enit/command) (lunghezza+suono) La parola e' breve, la `a` e' breve, e spesso facciamo l'errore di leggerla come `eeei` quando e' una molto breve `e`.
 
 ## Termini Tecnici
 
